@@ -1,15 +1,16 @@
  .u-section-1 {
-  background-image: url("images/photo1.jpg");
+  background-image: url("images/photo52.jpg");
 }
 
 .u-section-1 .u-sheet-1 {
   min-height: 1110px;
+  
 }
 
 .u-section-1 .u-text-1 {
   font-weight: 700;
   font-size: 3rem;
-  margin: 215px 60px 0 auto;
+  text-align: center;
 }
 
 .u-section-1 .u-text-2 {
