@@ -22,7 +22,7 @@ const btnTryAgain = document.getElementById('btn-try-again');
 
 const questions = [
     {
-        question: 'Как убрать подчеркивание у гиперссылки?',
+        question: 'How to remove the underline from a hyperlink?',
         options: [
             'a {decoration:no-underline;}',
             'a {text-decoration:no-underline;}',
@@ -32,7 +32,7 @@ const questions = [
         rightAnswer: 3
     },
     {
-        question: 'Какой правильный синтаксис CSS?',
+        question: 'What is the correct CSS syntax?',
         options: [
             'body {color: black;}',
             '{body:color=black;}',
@@ -42,7 +42,7 @@ const questions = [
         rightAnswer: 0
     },
     {
-        question: 'Какое значение по умолчанию у свойства position?',
+        question: 'What is the default value of the position property?',
         options: [
             'absolute',
             'fixed',
@@ -52,7 +52,7 @@ const questions = [
         rightAnswer: 2
     },
     {
-        question: 'Как выбрать элемент с id = "block"?',
+        question: 'How to select element with id="block"?',
         options: [
             '*block',
             '.block',
